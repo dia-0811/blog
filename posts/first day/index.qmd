@@ -1,0 +1,9 @@
+---
+title: "First Day"
+author: "Diana"
+date: "2026-09-14"
+categories: [news, code, food]
+image: "day_1.jpg"
+---
+
+Hello everyone! Today was my first day in Uppsala, and it was amazing. Join me for a quick recap of my day, from the hotel breakfast to the lecture at the Uppsala University. I also had an amazing lunch at a local restaurant, and I can't wait to share my experiences with you all!
