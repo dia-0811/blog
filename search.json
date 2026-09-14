@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/first day/index.html",
+    "href": "posts/first day/index.html",
+    "title": "First Day",
+    "section": "",
+    "text": "Hello everyone! Today was my first day in Uppsala, and it was amazing. Join me for a quick recap of my day, from the hotel breakfast to the lecture at the Uppsala University. I also had an amazing lunch at a local restaurant, and I can’t wait to share my experiences with you all!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A week in Uppsala",
+    "section": "",
+    "text": "First Day\n\n\n\nnews\n\ncode\n\nfood\n\n\n\n\n\n\n\n\n\nSep 14, 2026\n\n\nDiana\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\nDiana\n\n\n\n\n\nNo matching items"
+  }
+]
